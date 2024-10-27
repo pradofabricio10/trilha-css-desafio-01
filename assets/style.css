@@ -1,4 +1,4 @@
-@import url('reset.css');
+@import url('./reset.css');
 body {
     background-color: black;
   }
@@ -107,7 +107,7 @@ body {
   #transform-world {
     height: 560px;
     background-size: cover;
-    background-image: url("image/woman-code.png");
+    background-image: url("./images/woman-code.png");
     background-attachment: fixed;
     border-top: 1px solid #33A8DB80;
     border-bottom: 1px solid #33A8DB80;
